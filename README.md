@@ -1,1 +1,3 @@
 # Integrative_blog
+Reflection
+During this course I gained new knowledge and approaches for my career, about linear programming and its use within business and how it can be of great help in deciding the allocation and distribution of resources. It always seeks to find the best solution for a function and according to its constraints. Another topic I found interesting was forecasting in business decision making, how we can anticipate and estimate future events in order to make informed and strategic decisions. I understood that in everything around us there is data, and that by knowing how to collect and use it you can have an idea of what is going to happen in the future.
